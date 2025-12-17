@@ -1,0 +1,5 @@
+a second feature
+with
+some
+more
+lines
